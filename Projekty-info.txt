@@ -1,0 +1,11 @@
+Zawartoœæ katalogu:
+
+Wszystkie projekty (z jednym wyj¹tkiem) powinny dzia³aæ na Visual Studio 2015.
+
+'MetodyOptymalizacji' zawiera solucjê z dwoma projektami:
+ - Komiwoja¿er - Komiwoja¿er metod¹ podzia³u i ograniczeñ
+ - Projekt_1 - Maksymalne skojarzenie w grafie dwudzielnym
+
+'GeneticAlgorithm' - Algorytm genetyczny (Visual Studio 2017)
+
+'KolorowanieGrafu' - kolorowanie grafów algorytmem sekwencyjnym, bez nawrotów (wyniki tylko w trybie debugowania)
